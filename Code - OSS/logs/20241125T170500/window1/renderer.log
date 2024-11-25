@@ -1,0 +1,4 @@
+2024-11-25 17:05:01.813 [info] Started local extension host with pid 1855792.
+2024-11-25 17:05:01.839 [info] Started initializing default profile extensions in extensions installation folder. file:///home/flavio/.vscode-oss/extensions
+2024-11-25 17:05:01.935 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/flavio/.vscode-oss/extensions
+2024-11-25 17:05:04.666 [info] [perf] Render performance baseline is 19ms
